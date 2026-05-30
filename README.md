@@ -1,4 +1,4 @@
-# AI Career Roadmap Generator
+# CareerRoad AI
 
 A modern Flask + HTML/CSS/JavaScript portfolio project that generates personalized career roadmaps with the Groq API. Students enter their current skills, experience level, and target role, then receive a roadmap, skill gap analysis, project ideas, progress tracking, and AI mentor chat.
 
